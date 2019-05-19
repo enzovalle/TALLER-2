@@ -194,6 +194,8 @@ bool Stack_lib :: _empty(){ // return TRUE si el arreglo esta vacio, return FALS
     return (book[0] == vacio);
 }
 
+
+
 #include "Stack_de_libros.h"
 #include "Stack_lls.h"
 
